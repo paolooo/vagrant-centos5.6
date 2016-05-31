@@ -1,0 +1,4 @@
+.vagrant
+.git
+www/*
+puphpet/config-custom.yaml
